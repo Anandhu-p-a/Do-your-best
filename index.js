@@ -1,5 +1,5 @@
 var name = "Anandhu.P.A"
-console.log(Name)
+console.log(name)
 
 
-//ooh no something is wrong here ...please help me to find it out...
+//be cool ,its noting you used N instaed of small n thats it....
